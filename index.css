@@ -1,0 +1,39 @@
+h2{
+    text-align: center;
+}
+
+#firstname{
+    padding:5px;
+    color:blue;
+}
+
+#last{
+    padding: 10px;
+    color:blue;
+}
+
+div{
+    text-align:right
+}
+#jobs{
+    text-align: left
+}
+  
+#land{
+    text-align: center;
+}
+#laid{
+    text-align: right
+}
+
+body {
+  background-color: antiquewhite;
+  background-position: right bottom, left top;
+  background-repeat: no-repeat, repeat;
+  padding: 15px;
+}
+
+
+
+
+
